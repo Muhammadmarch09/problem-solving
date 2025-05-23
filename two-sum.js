@@ -10,7 +10,7 @@
 
 //         for j from i + 1 to length of nums
 
-//             if num[i] + num[j] == target
+//             if num[i] + num[j] == target THAN 
 
 //                 return [i, j]
 
