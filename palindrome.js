@@ -1,3 +1,4 @@
+// Problem 
 // Given an integer x return true if x is palindrome and otherwise false 
 
 // What is palindrome number ?
